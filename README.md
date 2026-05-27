@@ -1,2 +1,24 @@
-# Tetris_cool
-Un juego tetris que cree con ayuda de IA para mi propio disfrute
+# Tetris en Python
+
+Pequeño proyecto de Tetris desarrollado en Python usando Pygame.
+
+## Tecnologías usadas
+- Python
+- Pygame
+
+## Cómo ejecutar
+
+Instalar pygame:
+
+```bash
+pip install pygame
+```
+
+Ejecutar:
+
+```bash
+python juego_tetris_codigo.py
+```
+
+## Autor
+Maximiliano Gallegos
